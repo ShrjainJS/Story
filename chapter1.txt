@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "[javascript]": {
+        "editor.maxTokenizationLineLength": 2500
+    },
+    "editor.defaultFormatter": "mgmcdermott.vscode-language-babel",
+
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.minimumContrastRatio": 1,
+    "terminal.integrated.enableImages": false
+}

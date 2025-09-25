@@ -1,1 +1,1 @@
-This is a chapter 2 which is being created to learn git and other GIT CLI commands to use.
+This is a chapter 2 which was again created to learn git and other GIT CLI commands to use.
